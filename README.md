@@ -10,17 +10,17 @@ Steps:-
 1. Open commad prompt.
 2. Navigate to Client App.
 3. Run these three commands respectively.
-       npm install g @angular/cli@latest
-       npm install 
-       ng build 
+       1. npm install g @angular/cli@latest
+       2. npm install 
+       3. ng build 
        
 
 After that you need to migrate and update your database, then it will be reflected to the server.
 Open nuget package manager:-
           Install:- 
-          entity framework core
-          entiry framework sql server
-          entiry framework tool
+          1. entity framework core
+          2. entiry framework sql server
+          3. entiry framework tool
           
 Once Done with above steps build the file in Visual Studio.
 You are ready to go.
